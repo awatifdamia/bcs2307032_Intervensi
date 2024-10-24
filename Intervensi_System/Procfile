@@ -1,0 +1,1 @@
+web. gunicorn Intervensi.wsgi --log-file -
